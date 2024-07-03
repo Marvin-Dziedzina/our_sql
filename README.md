@@ -1,0 +1,1 @@
+OURsql should be a sql clone but with a communist twist like the meme.
